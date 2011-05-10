@@ -1,5 +1,5 @@
 #
-# jTranform
+# jTransform
 # by paolochiodi chiodi84@gmail.com
 #
 # based on jqTransform
